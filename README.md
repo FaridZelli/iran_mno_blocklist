@@ -6,7 +6,9 @@
 BaIrancell
 HAMRAH AVAL
 HAMRAHAVAL
+HAMRAH_AVAL
 Irancell
+Irancell4U
 IrancellFIN
 IrancellNow
 MCI Charge
