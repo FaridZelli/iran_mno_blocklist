@@ -1,1 +1,1 @@
-*4444#,BaIrancell,HAMRAH AVAL,HAMRAHAVAL,Irancell,IrancellFIN,IrancellNow,MCI Charge,MCI Club,MCI Mag,MCI Offers,MCI Package,MCI Simcard,MCI shop
+*4444#,BaIrancell,HAMRAH AVAL,HAMRAHAVAL,HAMRAH_AVAL,Irancell,Irancell4U,IrancellFIN,IrancellNow,MCI Charge,MCI Club,MCI Mag,MCI Offers,MCI Package,MCI Simcard,MCI shop
