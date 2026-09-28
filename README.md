@@ -1,5 +1,5 @@
 # Iranian Mobile Network Operators Marketing Blocklist
-![Artwork by Farid Zelli](/media/github_preview.jpg)
+![Artwork by Farid Zelli](media/github_preview.jpg)
 
 ```
 *4444#
@@ -20,7 +20,7 @@ MCI Package
 MCI Simcard
 MCI shop
 ```
-> Also available as a [text file](/iran_mno_blocklist.txt) which can be imported into [Fossify Messages](https://github.com/FossifyOrg/Messages).
+> Also available as a [text file](iran_mno_blocklist.txt) which can be imported into [Fossify Messages](https://github.com/FossifyOrg/Messages).
 
 ## Contributions
 
